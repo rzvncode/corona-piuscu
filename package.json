@@ -1,0 +1,22 @@
+{
+  "name": "solenya",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "bowser": "2.9.0",
+    "class-transformer": "0.2.3",
+    "class-validator": "0.9.1",
+    "history": "4.10.1",
+    "jquery": "3.4.1",
+    "lodash-es": "4.17.15",
+    "marked": "0.8.0",
+    "popper.js": "1.16.1",
+    "reflect-metadata": "0.1.13",
+    "solenya": "1.2.8",
+    "typestyle": "2.0.4",
+    "web-animations-js": "2.3.2",
+    "whatwg-fetch": "3.0.0",
+    "xss": "1.0.6"
+  }
+}

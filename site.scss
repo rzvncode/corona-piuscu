@@ -1,0 +1,29 @@
+$primary: red;
+$secondary: lime;
+@import "~bootstrap/scss/bootstrap.scss";
+
+html {
+    overflow-x: hidden;
+}
+
+html,
+body,
+#admin,
+#app {
+    min-height: 100%;
+    margin: 0;
+    display: flex;
+    width: 100%;
+}
+
+body {
+    color:white;
+}
+
+h1,h2,h3,h4 {
+    color: white;
+}
+
+label {
+    margin-bottom:5px;  
+}
